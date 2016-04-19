@@ -1,0 +1,2 @@
+path=test-case/casen
+bin/future_net ${path}/topo.csv ${path}/demand.csv result/result.txt
